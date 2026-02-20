@@ -19,7 +19,15 @@ Communication and quality assurance are woven throughout our processes. Teams fo
 - [Risks & Communication](octoacme-risks-and-communication.md) — Managing risks, dependencies, and stakeholder communication
 - [Release & Deployment Guide](octoacme-release-and-deployment.md) — Standardized deployment procedures and incident response
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) — Capturing learnings and driving ongoing improvements
-- [Roles and Personas](octoacme-roles-and-personas.md) — Detailed role definitions and responsibilities for PMs, PdMs, Developers, and Stakeholders
+- [Roles and Personas](octoacme-roles-and-personas.md) — Detailed role definitions and responsibilities for all project roles including Release Manager, Risk Owner, QA Lead, Communications Coordinator, and Executive Sponsor
+
+## Templates & Checklists
+
+- [RACI Matrix](octoacme-raci-matrix.md) — Role responsibility matrix across all project phases for clear accountability
+- [Release Management Checklist](octoacme-release-checklist.md) — Comprehensive checklist for Release Managers covering all release phases
+- [Risk Management Process Checklist](octoacme-risk-management-checklist.md) — Step-by-step guide for Risk Owners to identify, assess, and mitigate project risks
+- [QA Procedures Checklist](octoacme-qa-procedures-checklist.md) — Quality assurance processes and testing procedures for QA Leads
+- [Communications Coordination Checklist](octoacme-communications-checklist.md) — Communication planning and execution guide for Communications Coordinators
 
 ---
 
